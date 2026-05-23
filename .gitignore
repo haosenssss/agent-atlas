@@ -1,0 +1,25 @@
+# 原文备份:Anthropic 等原作者的全文,仅供本地对照学习,不上传
+resources/
+
+# 临时文件 / 抓取中间产物
+tmp/
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+
+# 编辑器
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Python(脚本/工具可能用到)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 环境变量
+.env
+.env.local
