@@ -1,7 +1,7 @@
 
 ![Building Effective Agents · The Agent Loop · Issue 01 封面](covers/01-cover.png)
 
-*原文:Anthropic Engineering / Erik Schluntz, Barry Zhang · 2024-12-19 · 备份在 `resources/2024-12-anthropic-building-effective-agents.md`*
+*原文:Anthropic Engineering / Erik Schluntz, Barry Zhang · 2024-12-19 · [链接](https://www.anthropic.com/engineering/building-effective-agents)*
 
 *备注:Anthropic 持续维护线上版本(Claude Agent SDK、Claude Haiku/Sonnet 4.5 等是后续更新的内容);备份是 2026-05-22 抓取版。下文 8 张图全部直接取自 Anthropic 原文。*
 
